@@ -29,35 +29,35 @@
 <details>
   <summary><b>Dashboard</b></summary>
 
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_1.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_2.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_3.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_3.1.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_3.2.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_4.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_5.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_5.1.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_6.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_7.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_7.1.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_8.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_9.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/Dashboard/dashboard_9.1.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_1.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_2.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_3.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_3.1.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_3.2.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_4.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_5.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_5.1.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_6.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_7.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_7.1.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_8.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_9.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/Dashboard/dashboard_9.1.png"></img>
 </details>
 
 <details>
   <summary><b>Zalogowany</b></summary>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/logged/ban_edit.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/logged/ban_list_zalogowany.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/logged/dynamiczne_usuwanie_bana.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/logged/new_comment.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/logged/podglad_bana_zalogowany.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/logged/ban_edit.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/logged/ban_list_zalogowany.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/logged/dynamiczne_usuwanie_bana.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/logged/new_comment.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/logged/podglad_bana_zalogowany.png"></img>
 </details>
 
 <details>
   <summary><b>Niezalogowany</b></summary>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/not_logged/ban_list_niezalogowany.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/not_logged/logowanie_strona_glowna.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/not_logged/podglad_bana_niezalogowany.png"></img>
-  <img src="https://github.com/AMXX4u/assets/blob/main/amxbans/not_logged/strona_logowania.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/not_logged/ban_list_niezalogowany.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/not_logged/logowanie_strona_glowna.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/not_logged/podglad_bana_niezalogowany.png"></img>
+  <img src="https://github.com/AMXX4u/AMXBans-Theme/blob/main/assets/not_logged/strona_logowania.png"></img>
 </details>
